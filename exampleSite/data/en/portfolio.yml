@@ -6,7 +6,8 @@ portfolio:
   - name: Pony Rocker
     image: images/portfolio/portfolio-27.jpg
     image_webp: images/portfolio/portfolio-27.webp
-    categories: ''
+    categories:
+    - design
     content: Wooden Pony Rocker made of Maple, Walnut and Cherry
     link: ''
   - name: Tag Design
